@@ -1,0 +1,36 @@
+Projects:
+ANDROMEDA, ACTIVE 
+Source on Azure DevOps
+A multi-domain Single Sign On implementation, this project is written using Flask (python) and JavaScript. The project is intended to be expanded to include more applications such as a wiki and blog. This will also under pin other projects so avoid implementing more authentication layers.
+
+PRESONAL BLOG, ACTIVE, READY FOR USE 
+Hosted on GitHub
+A simple static-site based blog written with Jekyll to engage with the community and hopefully provide a valuable resource for the public. Hosted using GitHub Pages, I hope to post my first blog in January 2019 after fixing a small visual bug.
+
+PERSONAL WEBSITE, ACTIVE, ON HOLD 
+Source on Azure DevOps
+A simple website to describe my various projects and link everything together, this may end up getting folded into the same blog site above. This project is a few years old and hosts the first working version of JaeRoute.
+
+JAEROUTE, ACTIVE, UNPUBLISHED 
+Source on Azure DevOps, will be published on GitHub
+JaeRoute is a super simple Single Page Application framework written in JavaScript to allow the simple generation of small sites. The framework is designed for use in static-sites but is fairly flexible. There is currently a bug that breaks loading to a subpage from scratch, so I didn’t feel comfortable publishing until this is fixed.
+
+
+JAEHUB, ACTIVE, ON HOLD 
+Source on Azure DevOps, will be published on GitHub
+JaeHub is intended to be used as an interactive wallboard or meeting room homepage, it will connect to calendar and other applications. JaeHub is designed as a TV-first interface design but is not intended for commercial use.
+
+
+KITCHENER, ACTIVE, PLANNING STAGE 
+Source on Azure DevOps, will be published on GitHub
+A recipe database, with additional functionality. Kitchener is designed for my family and friends to aggregate and share recipes, create shopping lists and to keep track of calories and nutrition. This app is designed to be used on mobile, desktop and tv sized screens while maintaining a beautiful and useful interface. Kitchener will hopefully include a grocery tracker to suggest recipes based on what’s in the pantry in a future version.
+
+
+HIBP-LIB, ACTIVE 
+Published on GitHub
+HIBP-lib is a small JavaScript module to help website users choose secure passwords by checking them against the PwnedPasswords API (provided by Troy Hunt on HaveIBeenPwned.com) and letting them know the results. As this interacts with passwords it is important to me to be transparent and for the code to be on a public GitHub repository. I hope to maintain this with future APIs hosted on HaveIBeenPwned.com.
+
+SKUNKWEB, ACTIVE, FINAL TESTING
+Working with my friend Georgia to redesign her website to be modern and much more flexible, while still letting here to continue show off her products.  This site is written using Jekyll to allow her to easily add and change pages, products or blog posts. Georgia is doing final testing before we are able to launch. As this was a gratis project, there is a lot of flexibility for me to implement new technology like Jekyll.
+
+
